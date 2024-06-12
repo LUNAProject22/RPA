@@ -1,0 +1,97 @@
+Human corr: 42.28
+Model corr: 26.78 (N=485)
+Random corr: 1.06 (N=485)
+Oracle corr: 88.60 (N=485)
+0
+im2txt: 15.112
+txt2im: 18.094
+p_at_1: 36.521
+1
+im2txt: 17.318
+txt2im: 18.261
+p_at_1: 35.181
+2
+im2txt: 14.368
+txt2im: 17.042
+p_at_1: 37.018
+3
+im2txt: 15.489
+txt2im: 17.578
+p_at_1: 32.060
+4
+im2txt: 12.863
+txt2im: 14.885
+p_at_1: 37.045
+5
+im2txt: 15.458
+txt2im: 17.867
+p_at_1: 33.232
+6
+im2txt: 14.869
+txt2im: 16.712
+p_at_1: 35.091
+7
+im2txt: 14.696
+txt2im: 16.757
+p_at_1: 35.146
+8
+im2txt: 14.402
+txt2im: 16.178
+p_at_1: 35.330
+9
+im2txt: 14.066
+txt2im: 16.713
+p_at_1: 34.940
+10
+im2txt: 14.747
+txt2im: 16.707
+p_at_1: 34.184
+11
+im2txt: 14.568
+txt2im: 17.341
+p_at_1: 34.242
+12
+im2txt: 11.544
+txt2im: 13.237
+p_at_1: 35.915
+13
+im2txt: 16.415
+txt2im: 19.030
+p_at_1: 34.518
+14
+im2txt: 13.868
+txt2im: 15.621
+p_at_1: 33.367
+15
+im2txt: 16.585
+txt2im: 18.062
+p_at_1: 35.354
+16
+im2txt: 13.834
+txt2im: 15.530
+p_at_1: 36.217
+17
+im2txt: 13.137
+txt2im: 15.535
+p_at_1: 37.794
+18
+im2txt: 15.120
+txt2im: 16.611
+p_at_1: 37.259
+19
+im2txt: 15.077
+txt2im: 16.669
+p_at_1: 32.694
+20
+im2txt: 14.266
+txt2im: 16.632
+p_at_1: 36.125
+21
+im2txt: 15.120
+txt2im: 16.523
+p_at_1: 35.585
+22
+im2txt: 16.501
+txt2im: 17.899
+p_at_1: 33.571
+acc gt bbox = 87.8942 (n=6656), acc auto bbox = 41.8050 (n=6656), acc oracle bbox = 95.9762 (n=6656)

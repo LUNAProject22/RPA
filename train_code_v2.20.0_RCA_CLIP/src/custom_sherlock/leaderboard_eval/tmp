@@ -1,0 +1,96 @@
+Human corr: 42.28
+Model corr: 32.41 (N=485)
+Random corr: 1.06 (N=485)
+Oracle corr: 88.60 (N=485)
+0
+im2txt: 11.727
+txt2im: 15.083
+p_at_1: 40.387
+1
+im2txt: 14.504
+txt2im: 15.216
+p_at_1: 33.569
+2
+im2txt: 12.208
+txt2im: 15.288
+p_at_1: 37.120
+3
+im2txt: 12.775
+txt2im: 14.981
+p_at_1: 36.482
+4
+im2txt: 11.239
+txt2im: 12.810
+p_at_1: 37.753
+5
+im2txt: 12.058
+txt2im: 13.386
+p_at_1: 36.373
+6
+im2txt: 11.186
+txt2im: 13.217
+p_at_1: 38.337
+7
+im2txt: 12.504
+txt2im: 13.994
+p_at_1: 37.362
+8
+im2txt: 11.969
+txt2im: 12.727
+p_at_1: 36.650
+9
+im2txt: 11.772
+txt2im: 14.445
+p_at_1: 37.550
+10
+im2txt: 12.258
+txt2im: 12.474
+p_at_1: 36.939
+11
+im2txt: 11.997
+txt2im: 12.879
+p_at_1: 35.859
+12
+im2txt: 9.251
+txt2im: 10.918
+p_at_1: 39.135
+13
+im2txt: 14.827
+txt2im: 16.714
+p_at_1: 36.650
+14
+im2txt: 11.274
+txt2im: 12.752
+p_at_1: 34.677
+15
+im2txt: 13.180
+txt2im: 13.328
+p_at_1: 37.374
+16
+im2txt: 10.253
+txt2im: 11.802
+p_at_1: 40.543
+17
+im2txt: 12.130
+txt2im: 13.676
+p_at_1: 40.654
+18
+im2txt: 11.705
+txt2im: 13.358
+p_at_1: 35.635
+19
+im2txt: 13.360
+txt2im: 14.631
+p_at_1: 34.410
+20
+im2txt: 11.845
+txt2im: 13.795
+p_at_1: 38.749
+21
+im2txt: 11.344
+txt2im: 12.784
+p_at_1: 40.927
+22
+im2txt: 12.679
+txt2im: 15.511
+p_at_1: 35.605
