@@ -1,4 +1,5 @@
-torch>=1.9.0
+opencv-python
+torch
 torchvision
 regex
 ftfy
@@ -7,3 +8,7 @@ huggingface_hub
 sentencepiece
 protobuf<4
 timm
+fvcore
+scikit-learn
+frozendict
+lapjv
