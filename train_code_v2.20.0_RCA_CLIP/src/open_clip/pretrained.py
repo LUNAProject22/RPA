@@ -237,6 +237,7 @@ _PRETRAINED = {
     "ViT-B-32-quickgelu": _VITB32_quickgelu,
     "ViT-B-16": _VITB16,
     "ViT-B-16-448x224": _VITB16,
+    "ViT-B-16-336x336": _VITB16,
     "ViT-B-16-448x224_TKS": _VITB16,
     "ViT-B-16-672x336": _VITB16,
     "ViT-B-16-224x112": _VITB16,

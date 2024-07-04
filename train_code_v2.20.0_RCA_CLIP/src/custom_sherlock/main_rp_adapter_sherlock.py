@@ -506,7 +506,7 @@ def main(args):
             args.val_sz = len(val_data)
         # you will have to configure this for your project!
         wandb.init(
-            project="RPA-Journal-V3", 
+            project="RCA-Good", 
             entity="hzhang57",
             name=args.name,
             id=args.name,
