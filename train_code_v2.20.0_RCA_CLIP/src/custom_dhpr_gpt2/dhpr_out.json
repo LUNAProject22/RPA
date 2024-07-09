@@ -3054,7 +3054,7 @@
             "driving forward, my car is too far to the right of lane, due to this my car clips Entity #1."
         ],
         "roma_00095.png": [
-            "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this, my car hits Entity #1."
         ],
         "prague_01257.png": [
             "i make right turn, Entity #1 converges into same lane as my making right turn, due to this my car hits Entity #1."
@@ -3090,7 +3090,7 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "leipzig_00432.png": [
-            "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this, my car hits Entity #1."
         ],
         "394859a3-3946a608.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -3150,7 +3150,7 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "torino_00355.png": [
-            "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop the car."
+            "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop in time."
         ],
         "montpellier_00530.png": [
             "Entity #1 pulls out, no signal, no mirror check, due to this, my car hits Entity #1."
@@ -3198,13 +3198,13 @@
             "Entity #1 brakes, due to my speed, won't stop in time and hits Entity #1."
         ],
         "8be12561-060caeca.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "ulm_00388.png": [
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1 back end."
         ],
         "41d34f95-465a7e49.jpg": [
-            "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
+            "Entity #1 comes into my lane, does not check mirrors, due to this, my car hits Entity #1."
         ],
         "8b6f9f8e-fbea2852.jpg": [
             "Entity #1 is about to stop in front of me as its braking lights are glowing and with no signal, it will hit Entity #1."
@@ -3267,10 +3267,10 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "szczecin_00022.png": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 shows green light, i will not stop my car, due to this my car hits Entity #1."
+            "Entity #1 brakes, due to speed and Entity #2, my car hits Entity #1."
         ],
         "a302322c-4c6d332a.jpg": [
-            "Entity #1 brakes, due to speed and Entity #2, my car hits Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
         ],
         "brno_00488.png": [
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
@@ -3348,7 +3348,7 @@
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
         ],
         "298726c9-a9b4a75e.jpg": [
-            "Entity #1 is applying brake in front of me as its braking lights are on."
+            "Entity #1 is applying brake in front of me as its braking lights are glowing and with no distance to go, my car will hit Entity #1."
         ],
         "barcelona_00572.png": [
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
@@ -3375,7 +3375,7 @@
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
         ],
         "4b4fd034-9647176e.jpg": [
-            "Entity #1 brakes, due to my speed and Entity #2, my car slides on Entity #1."
+            "Entity #1 brakes, due to my speed and Entity #2, my car hits Entity #1."
         ],
         "1280769f-9b8f58a6.jpg": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -3393,7 +3393,7 @@
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
         ],
         "2f40e933-9b90fcfd.jpg": [
-            "driving forward, don't see Entity #1, due to speed, won't stop in time and hits Entity #1."
+            "i'm making a left turn, don't check my right side, due to this my car hits Entity #1."
         ],
         "zagreb_00035.png": [
             "Entity #1 is waiting for the train to be crossed safely and we should reduce our speed."
@@ -3468,7 +3468,7 @@
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "1b72216a-119383cf.jpg": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my speed as Entity #1 also at my current speed would crash into my car if Entity #1 wont stop in time and at my current speed i car not stop in time due to this my"
+            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my speed as Entity #1 also at my current speed would crash into Entity #1 even at my current speed as Entity #1 would not be able to stop in time and at my current speed"
         ],
         "potsdam_00043.png": [
             "Entity #1 brakes, due to my speed, won't stop in time and hits Entity #1."
@@ -3570,7 +3570,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "3d4758a8-1922f437.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
         ],
         "96aed891-1ee69174.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -3594,13 +3594,13 @@
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
         ],
         "bologna_01085.png": [
-            "Entity #1 crosses, does not ensure my car is fully stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
+            "Entity #1 crosses, does not ensure my car is stopped, due to this my car hits Entity #1 crossing cross crosswalk."
         ],
         "5ff4595b-51f188a8.jpg": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "aa46a5fc-f691ad50.jpg": [
-            "Entity #1 decides to merge into my lane, does not check blindspot thus merging into my lane with out checking if lane is clear thus hitting my car."
+            "Entity #1 decides to merge into my lane without checking blindspot, due to this will collide with Entity #1."
         ],
         "aa89a0bb-35083a77.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -3612,7 +3612,7 @@
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
         ],
         "88b44b75-2491ac50.jpg": [
-            "driving forward, due to Entity #2 obscuring vision, don't see Entity #1, with my speed will hit Entity #1."
+            "Entity #1 pulls out parking spot, does not check mirrors before coming into lane, due to this, my car hits Entity #1."
         ],
         "prague_01126.png": [
             "Entity #1 is waiting for the green signal from Entity #2."
@@ -3657,7 +3657,7 @@
             "driving forward, i misjudge Entity #1 speed, due to this my car hits Entity #1."
         ],
         "toulouse_00109.png": [
-            "Entity #1 makes a left turn, does not signal, due to this, my car hits Entity #1."
+            "Entity #1 makes a left turn, misjudges my car's speed going forward and converges into my lane hitting Entity #1."
         ],
         "szczecin_00454.png": [
             "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop in time."
@@ -3681,13 +3681,13 @@
             "Entity #1 is too close to us and at the speed of 15km/h we will crash into it."
         ],
         "berlin_00140.png": [
-            "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop the car."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, at my current speed, my car will not stop"
         ],
         "amsterdam_00510.png": [
-            "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
+            "Entity #1 changes into my lane, does not check blindspot thus hitting my car."
         ],
         "brno_00674.png": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, at my current speed, my car will not stop"
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this situation Entity #1 is moves slowly, at this situation my car is moving with minimum distance, due to this my car hits Entity #2."
         ],
         "firenze_00799.png": [
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
@@ -3720,7 +3720,7 @@
             "Entity #1 is too close to us and at the speed of 45km/h we will crash into it."
         ],
         "56d51403-f7be9cd5.jpg": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "firenze_00352.png": [
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
@@ -3735,7 +3735,7 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "torino_00205.png": [
-            "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this, my car hits Entity #1."
         ],
         "59cafd79-01db3dbd.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -3759,7 +3759,7 @@
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "18957aec-54dca9ef.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, my car will hit Entity #1."
+            "Entity #1 is about to stop in front of me as its braking lights are glowing and with Entity #2 on the road, my car will hit Entity #1."
         ],
         "1f5d6bf1-7e1eadf0.jpg": [
             "Entity #1 brakes, i'm following too closely, due to this, won't stop in time and hits Entity #1."
@@ -3786,7 +3786,7 @@
             "Entity #1 brakes, does not factor my speed, due to this, my car will hit Entity #1."
         ],
         "ulm_00102.png": [
-            "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this, my car hits Entity #1."
         ],
         "581101cc-8ef51e1d.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -3804,7 +3804,7 @@
             "Entity #1 is too close for us to stop in time at 75+km/h we will crash into the back of Entity #1."
         ],
         "039f729b-17136fb4.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is cross the road slowly, at this situation i could not stop my car, due to this my car hits Entity #1."
+            "Entity #1 crosses, does not factor my speed, due to this my car hits Entity #1 crossing street ahead."
         ],
         "a4447131-2b9daf81.jpg": [
             "Entity #1 is too close to us and at the speed of 15km/h we will crash into Entity #1."
@@ -3837,10 +3837,10 @@
             "Entity #1 is too close to us and at the speed of 15km/h we will crash into Entity #1."
         ],
         "ulm_00079.png": [
-            "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop the car."
+            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "6cbd196c-5b170a12.jpg": [
-            "Entity #1 brakes, does not factor my speed, due to this, my car won't stop in time and hits Entity #1."
+            "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "prague_01196.png": [
             "Entity #1 crosses, does not ensure road is clear, due to my speed, my car won't stop in time and hits Entity #1 crossing crosswalk."
@@ -3879,13 +3879,13 @@
             "any vehicle would come from Entity #1 and we would hit on any vehicle."
         ],
         "6fded51b-7341a1d9.jpg": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my speed as Entity #1 also at my current speed would crash into my car if Entity #1 wont stop in time and at my current speed i car not stop in time due to this my"
+            "Entity #1 is slowing down in front of me not considering my speed, at my current speed of 45km/h i can't stop my car in time and hits Entity #1."
         ],
         "ac2bc047-9c11f0be.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "13ded202-27de718f.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
+            "Entity #1 is too close to us and at the speed of 15km/h we will crash into Entity #1."
         ],
         "4331fc71-6c4db8bf.jpg": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
@@ -3924,7 +3924,7 @@
             "Entity #1 decides to come into my lane, does not signal, due to this, my car hits Entity #1."
         ],
         "budapest_00069.png": [
-            "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
+            "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
         ],
         "ulm_00063.png": [
             "Entity #1 brakes, due to Entity #2 and speed, my car slides on Entity #1."
@@ -3951,10 +3951,10 @@
             "driving forward, my car is too far to the right of lane, due to this my car clips Entity #1."
         ],
         "brno_01250.png": [
-            "Entity #1 brakes, i\u2019m following to closely, won't stop in time and hits Entity #1."
+            "i apply brakes late, due to this my car hits Entity #1."
         ],
         "firenze_00971.png": [
-            "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this my car hits Entity #1."
         ],
         "marseille_00677.png": [
             "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
@@ -4038,7 +4038,7 @@
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
         ],
         "7c7d7f87-1b67d7da.jpg": [
-            "Entity #1 is too close to us and at the speed of 15km/h we will crash into Entity #1."
+            "Entity #1 is too close for us to stop in time at 15km/h we will crash into the back of Entity #1."
         ],
         "milano_00591.png": [
             "Entity #1 brakes, i\u2019m following to closely, won't stop in time and hits Entity #1 back at the back."
@@ -4056,7 +4056,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "montpellier_00333.png": [
-            "we are nearing Entity #1 and should stop at once."
+            "Entity #1 would enter the center lane and Entity #2 might brake at any time."
         ],
         "aef15596-e6b1d468.jpg": [
             "Entity #1 brakes, i'm following too closely, due to this, won't stop in time and hits Entity #1."
@@ -4080,13 +4080,13 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "dresden_01212.png": [
-            "Entity #1 is slowing down in front of me as its brake lights are glowing and with no warning, I will not stop in time."
+            "Entity #1 is slowing down in front of me not considering my speed as Entity #1 is about to stop in front of me."
         ],
         "99580a6e-360407f8.jpg": [
             "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me as Entity #1 also wont be able to stop in time and at my current speed of 45km/h i car not stop in time due to Entity #1 at this place because of my car is"
         ],
         "33dd89e9-cadc089c.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "7a720cfa-5139a991.jpg": [
             "Entity #1 is too close for us to stop in time at 15km/h we will crash into the back of Entity #1."
@@ -4104,7 +4104,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "ulm_00200.png": [
-            "Entity #1 brakes, due to Entity #2, my car slides into Entity #1."
+            "Entity #1 brakes, due to speed and Entity #2, my car hits Entity #1."
         ],
         "35306bfa-9293b10e.jpg": [
             "driving forward, my car is too far to the right of lane, due to this my car clips Entity #1."
@@ -4116,7 +4116,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "86ec49c9-52ef7cce.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
         ],
         "859ea351-72c403a7.jpg": [
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
@@ -4131,7 +4131,7 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "ulm_00224.png": [
-            "Entity #1 brakes, i'm tailgating, due to this, my car hits Entity #1."
+            "Entity #1 brakes, i'm tailgating, due to this my car hits Entity #1."
         ],
         "46c17423-052a6b65.jpg": [
             "Entity #1 brakes, due to my speed and short stopping distance, my car hits Entity #1."
@@ -4143,7 +4143,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "a635b203-a3ac67af.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 shows green light, i brake but due to speed, my car will not stop behind."
+            "Entity #1 is about to stop in front of me as its braking lights are glowing and with Entity #2 on the road, my car will hit Entity #1."
         ],
         "barcelona_00010.png": [
             "Entity #1 walks in front of my car, does not ensure my car is fully stopped, due to this, my car hits Entity #1."
@@ -4248,7 +4248,7 @@
             "Entity #1 is too close for us to stop in time at 15km/h at the speed."
         ],
         "prague_00890.png": [
-            "Entity #1 brakes, due to my speed and Entity #2, my car hits Entity #1."
+            "Entity #1 brakes, due to Entity #2, my car slides into Entity #1."
         ],
         "2a7a4866-2b4c843f.jpg": [
             "Entity #1 is too close to us and at the speed of 15km/h we will crash into it."
@@ -4323,10 +4323,10 @@
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
         ],
         "7098c3d9-e0d9058d.jpg": [
-            "Entity #1 brakes, due to Entity #2, my car slides into Entity #1."
+            "Entity #1 brakes, due to Entity #2 and speed, won't stop in time and hits Entity #1."
         ],
         "66cbb16a-ebf4d058.jpg": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "zagreb_01154.png": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
@@ -4344,7 +4344,7 @@
             "driving forward, my car is too far to the right of the lane, due to this my car clips Entity #1."
         ],
         "firenze_01622.png": [
-            "Entity #1 is stopped at Entity #2, i misjudge my stopping distance thus my car hits Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "firenze_01502.png": [
             "Entity #1 is too close for us to stop in time at 15km/h we have to brake in time and also we have to brake in the back of Entity #1 at this speed also if we dint stop in time we carnot stop in time and also we carnot stop in time and also we would hit Entity"
@@ -4401,7 +4401,7 @@
             "Entity #1 is turning to the left and it is going to be in our way."
         ],
         "fdc110cc-06b11b0c.jpg": [
-            "Entity #1 brakes, following too closely, won't stop in time and hits Entity #1."
+            "Entity #1 brakes, i'm following too closely, due to this, won't stop in time and hits Entity #1."
         ],
         "ulm_00525.png": [
             "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop the car."
@@ -4476,13 +4476,13 @@
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
         ],
         "55095e84-03db78b6.jpg": [
-            "Entity #1 brakes, due to following to closely, won't stop in time and hits Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "hamburg_01045.png": [
-            "Entity #1 is too close for us to stop in time at 15km/h we have to brake in time and also we have to brake in the back of Entity #1 at this speed also if we dint stop in time we carnot stop in time and also we carnot stop in time and also we would hit Entity"
+            "Entity #1 is too close for us to stop in time at 15km/h at the speed."
         ],
         "319e215a-3674422e.jpg": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also braking in front of me."
+            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my speed as Entity #1 also at my current speed would crash into Entity #1 even at my current speed as Entity #1 would not be able to stop in time and at my current speed"
         ],
         "amsterdam_01451.png": [
             "Entity #1 comes into center of road, does not look, due to this my car hits Entity #1."
@@ -4575,7 +4575,7 @@
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "8f46219b-1f343de6.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, i brake the car."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "firenze_00895.png": [
             "Entity #1 is not looking at us and is way too close for us to stop in time at 15km/h we will crash into Entity #1 at this speed also if we did not stop we would hit Entity #1 at this speed also if we did not stop at this speed we would crash into Entity #1 at this"
@@ -4596,7 +4596,7 @@
             "Entity #1 changes into my right lane, no signal, due to this, my car hits Entity #1."
         ],
         "milano_00486.png": [
-            "Entity #1 comes into center of road, does not look, due to this my car hits Entity #1."
+            "Entity #1 comes into my lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "0d7917e9-edd658ef.jpg": [
             "Entity #1 changes lane without signaling and checking mirrors, due to this it hits my car."
@@ -4689,13 +4689,13 @@
             "Entity #1 would turn left and stop nearly and our car would not brake at this given speed and would not brake and crash alongside Entity #1."
         ],
         "leipzig_00058.png": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to more cars ahead and our car would fail to brake at this given speed."
         ],
         "brno_00940.png": [
-            "Entity #1 would come across our way and our car would not brake at this given speed."
+            "Entity #1 would come across our way and our car would not brake at this given speed and our car would not brake at Entity #1 and would crash Entity #1."
         ],
         "6d59b14f-ba97d498.jpg": [
-            "driving forward, don't see Entity #1, due to speed, won't stop in time and hits Entity #1."
+            "Entity #1 pulls out parking spot, does not check mirrors before coming into lane, due to this, my car hits Entity #1."
         ],
         "4b7d3d7b-9f795c4d.jpg": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
@@ -4755,7 +4755,7 @@
             "driving forward, don't see Entity #1, due to speed, won't stop in time and hits Entity #1."
         ],
         "0832b2c1-59228fb8.jpg": [
-            "driving forward, don't see Entity #1, due to speed, won't stop in time and hits Entity #1."
+            "Entity #1 brakes, due to Entity #2 and speed, won't stop in time and hits Entity #1."
         ],
         "ulm_00298.png": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -4773,13 +4773,13 @@
             "Entity #1 comes into live lane, no signal, due to my car's proximity, my car hits Entity #1."
         ],
         "budapest_00416.png": [
-            "Entity #1 crosses, does not ensure my car is stopped, due to this my car hits Entity #1 crossing cross crosswalk."
+            "Entity #1 brakes, due to my speed and Entity #2, my car hits Entity #1."
         ],
         "toulouse_00131.png": [
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "amsterdam_00813.png": [
-            "Entity #1 changes lane, does not signal, due to this, my car hits Entity #1."
+            "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "bologna_00000.png": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -4833,7 +4833,7 @@
             "Entity #1 may enter my side of the lane without considering my speed."
         ],
         "prague_01045.png": [
-            "Entity #1 is in red color, so Entity #2 applied the sudden brake to stop in time."
+            "Entity #1 is too close for us to stop in time at 15km/h we have to brake in time and also we have to brake in the back of Entity #1 at this speed also if we dint stop in time we carnot stop in time and also we carnot stop in time and also we would hit Entity"
         ],
         "2ff3443a-a146a55c.jpg": [
             "Entity #1 pulls out parking spot, does not check mirrors before coming into lane, due to this, my car hits Entity #1."
@@ -4890,7 +4890,7 @@
             "Entity #1 decides to cross, does not factor my car's speed, due to this my car hits Entity #1 crossing crosswalk."
         ],
         "bratislava_00158.png": [
-            "Entity #1 would turn and block our way and at this given speed our car would reach Entity #1 at once and would crash Entity #1 at this distance and hence we have to reduce our speed and stop in the turn."
+            "Entity #1 would turn and block our way and at this given speed our car would reach Entity #1 at once and would crash Entity #1 at this distance and hit Entity #1."
         ],
         "4799379f-c45815cf.jpg": [
             "Entity #1 changes lane without signaling and checking mirrors, due to this it hits my car."
@@ -4899,7 +4899,7 @@
             "Entity #1 crosses, does not factor my car is still moving forward, due to this will hit Entity #1."
         ],
         "bologna_01194.png": [
-            "Entity #1 brakes, due to Entity #2, my car slides into Entity #1."
+            "Entity #1 decides to cross, does not factor my car's speed, due to this my car hits Entity #1."
         ],
         "11513e3d-150058c3.jpg": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -4983,16 +4983,16 @@
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "prague_00057.png": [
-            "we are driving at the speed of 75+km/h."
+            "Entity #1 would enter the center lane and Entity #2 might brake at any time."
         ],
         "3cdacf82-f252c0ba.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 shows green light, i brake but due to speed, my car will not stop behind."
+            "Entity #1 brakes, due to Entity #2 and speed, won't stop in time and hits Entity #1."
         ],
         "2551c2e6-41894b5f.jpg": [
             "Entity #1 decides to jaywalk, does not look for oncoming traffic, due to my speed, won't stop in time and hits Entity #1."
         ],
         "8f3e48fb-d7de0192.jpg": [
-            "Entity #1 crosses, does not factor my speed, due to this my car hits Entity #1 crossing street ahead."
+            "Entity #1 crosses, does not factor my car is still moving forward, due to this my car hits Entity #1 crossing cross cross crosswalk."
         ],
         "25f19773-e96ef7a8.jpg": [
             "Entity #1 is moving in front of me and suddenly comes in front of my car."
@@ -5004,7 +5004,7 @@
             "Entity #1 is crossing the road from left to right by talking over the phone in haste."
         ],
         "prague_00916.png": [
-            "Entity #1 crosses, does not ensure my car is fully stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
+            "driving forward, i apply brakes late, due to this my car hits Entity #1."
         ],
         "roma_00296.png": [
             "Entity #1 changes into my right lane, no signal, due to this, my car hits Entity #1."
@@ -5031,10 +5031,10 @@
             "Entity #1 comes into my lane without signaling, due to this, my car hits Entity #1."
         ],
         "4e3ea117-35b54bf2.jpg": [
-            "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, at my current speed, my car will not stop in time and hit Entity #1."
         ],
         "9a36c099-50c49aea.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, i brake the car."
+            "driving forward, don't see Entity #1, due to speed, won't stop in time and hits Entity #1."
         ],
         "barcelona_01077.png": [
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
@@ -5046,7 +5046,7 @@
             "Entity #1 is too close to us and at 75+ km/h we will crash into his car."
         ],
         "roma_00308.png": [
-            "Entity #1 brakes, due to Entity #2 and speed, my car won't stop in time and hits Entity #1."
+            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "1f944122-6419fd1f.jpg": [
             "Entity #1 leaves parking spot, does not check mirrors, due to this my car hits Entity #1."
@@ -5082,13 +5082,13 @@
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "7489ba2c-306e53be.jpg": [
-            "Entity #1 is moving in front of me and suddenly brakes."
+            "Entity #1 is too close to us and at the speed of 45km/h he will crash in our car."
         ],
         "wuerzburg_00085.png": [
             "Entity #1 is walking along the pedestrian crossing and would come across our way."
         ],
         "wuerzburg_00229.png": [
-            "Entity #1 brakes, i'm too close to stop in time and hits Entity #1."
+            "Entity #1 brakes, i\u2019m following to closely, won't stop in time and hits Entity #1."
         ],
         "firenze_00502.png": [
             "Entity #1 brakes, i'm too close to stop in time thus rear ending Entity #1."
@@ -5103,7 +5103,7 @@
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "25a9b188-a67c6dc6.jpg": [
-            "Entity #1 would stop due to traffic ahead and Entity #2 would overtake and enter the center lane across our way."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
         ],
         "zagreb_00305.png": [
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
@@ -5121,7 +5121,7 @@
             "Entity #1 is slowing down in front of me as its brake lights are glowing and with no warning, I will not stop in time."
         ],
         "41ea751a-fc885f2f.jpg": [
-            "Entity #1 is too close to us and at the speed of 75+km/h we will crash into Entity #1."
+            "Entity #1 is too close to us and at 45km/h we will crash into it."
         ],
         "78cd5b06-e07bf2c7.jpg": [
             "Entity #1 would stop due to more cars in queue and our car would not brake at this given speed."
@@ -5193,7 +5193,7 @@
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
         ],
         "brno_00734.png": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "firenze_00417.png": [
             "Entity #1 decides to jaywalk, does not look for oncoming traffic, due to my speed, won't stop in time and hits Entity #1."
@@ -5214,16 +5214,16 @@
             "Entity #1 pulls out parking spot, does not check mirrors before coming into lane, due to this, my car hits Entity #1."
         ],
         "firenze_01618.png": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to traffic ahead and Entity #2 would overtake and enter the center lane blocking our way."
         ],
         "46021ee2-dea3dce9.jpg": [
             "Entity #1 pulls out from parking spot, does not check mirrors, due to this, my car hits Entity #1."
         ],
         "dresden_00706.png": [
-            "Entity #1 crosses, does not ensure road is clear, due to my speed, will not stop in time and hit Entity #1."
+            "driving forward, i apply brakes late, due to this my car goes into Entity #1."
         ],
         "9d6823f8-fe06ad50.jpg": [
-            "Entity #1 brakes, due to Entity #2 and speed, won't stop in time and hits Entity #1."
+            "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "2e8d2075-922580da.jpg": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
@@ -5235,7 +5235,7 @@
             "Entity #1 crosses, does not ensure my car is stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
         ],
         "dresden_00387.png": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also braking in front of me."
+            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me as Entity #1 also shows red."
         ],
         "532fe939-222b589f.jpg": [
             "Entity #1 decides to cross, does not factor my speed, due to this my car hits Entity #1."
@@ -5253,7 +5253,7 @@
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
         ],
         "potsdam_00830.png": [
-            "Entity #1 crosses, does not ensure my car is fully stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
+            "Entity #1 crosses, does not ensure my car is stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
         ],
         "7c4b1ac7-543f8374.jpg": [
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
@@ -5313,13 +5313,13 @@
             "Entity #1 pulls out parking spot, does not check mirrors, due to this, my car hits Entity #1."
         ],
         "hamburg_00352.png": [
-            "Entity #1 is crossing the road from left to right by talking over the phone in haste."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the sudden brake, my car will hit Entity #1."
         ],
         "dresden_00407.png": [
             "Entity #1 would come across our way and our car would not brake at this given speed and our car would not brake at Entity #1 and our car would not brake at this given speed and our car would not brake at this given speed and our car would not brake at this given speed and our car would not brake at this given"
         ],
         "93408ac5-41472674.jpg": [
-            "Entity #1 brakes, due to Entity #2 and speed, won't stop in time and hits Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 shows green light, i brake but due to speed, my car will not stop behind."
         ],
         "pisa_00169.png": [
             "Entity #1 brakes, does not factor my speed, due to this, my car will hit Entity #1."
@@ -5343,7 +5343,7 @@
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is cross the road slowly, at this situation i could not stop my car, due to this my car hits Entity #1."
         ],
         "728d5596-00314d0f.jpg": [
-            "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
+            "Entity #1 changes lane without signaling and checking mirrors, due to this it hits my car."
         ],
         "zuerich_00220.png": [
             "Entity #1 would cross the road on the spur of the moment."
@@ -5361,7 +5361,7 @@
             "Entity #1 would enter the center lane and block our way all of a sudden."
         ],
         "milano_00637.png": [
-            "Entity #1 would stop due to traffic ahead and Entity #2 would overtake and enter the center lane across our way."
+            "Entity #1 is crossing the road from left to right by talking over the phone in haste."
         ],
         "6222b5d4-f9b2f9f6.jpg": [
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
@@ -5415,7 +5415,7 @@
             "Entity #1 comes into my lane without signaling, due to this, my car hits Entity #1."
         ],
         "5216ff49-df558d1b.jpg": [
-            "Entity #1 is moving in front of me and suddenly brakes."
+            "Entity #1 is too close to us and at the speed of 45km/h we will crash into it."
         ],
         "5981fad8-5541adbb.jpg": [
             "Entity #1 would enter the center lane and block our way suddenly and at this given speed our car would crash Entity #1."
@@ -5436,7 +5436,7 @@
             "Entity #1 would enter the center lane and block our way suddenly, and at this speed, we would hit Entity #1 at this speed too."
         ],
         "af3804e4-bb47d288.jpg": [
-            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, my car will hit Entity #1."
         ],
         "49a84ec1-38dbfdb8.jpg": [
             "Entity #1 is coming from the opposite side with high beam flash light, we have to reduce our speed and stop our car, otherwise we would hit Entity #1."
@@ -5469,13 +5469,13 @@
             "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "335c2972-ae419f54.jpg": [
-            "Entity #1 decides to merge into my lane without factoring my speed, due to this will collide with Entity #1."
+            "Entity #1 decides to change lane, does not check blindspot and hits my car."
         ],
         "ulm_00041.png": [
             "Entity #1 comes into my lane, does not signal, due to this, my car hits Entity #1."
         ],
         "01c71072-718028b8.jpg": [
-            "Entity #1 may enter my side of the lane without considering my speed."
+            "Entity #1 is coming to my lane front from the left alley street."
         ],
         "413da38c-428c534e.jpg": [
             "Entity #1 is coming from the opposite side with high beam flash light."
@@ -5532,7 +5532,7 @@
             "Entity #1 leaves parking spot, does not check mirrors, due to this my car hits Entity #1."
         ],
         "roma_00911.png": [
-            "Entity #1 is unaware of our speed and would be hit severely if we did not stop at this speed."
+            "Entity #1 is crossing the road from left to right, and because of this, we would hit Entity #1 even at the lowest speed as Entity #1 is crossing the road."
         ],
         "torino_00699.png": [
             "i apply brakes late, my car goes into crosswalk and hits Entity #1."
@@ -5556,7 +5556,7 @@
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "firenze_00916.png": [
-            "Entity #1 is unaware of our speed and would be hit severely if we did not stop at this speed."
+            "Entity #1 is unaware of our speed and would be hit severely if we did not slow down."
         ],
         "budapest_00095.png": [
             "Entity #1 reverses, does not check rear view mirror, due to this, my car hits Entity #1."
@@ -5574,10 +5574,10 @@
             "Entity #1 would enter the center lane and Entity #2 might brake at any time."
         ],
         "toulouse_01031.png": [
-            "Entity #1 is crossing the road from left to right by talking over the phone."
+            "Entity #1 is crossing the road from left to right by talking over the phone in haste."
         ],
         "bratislava_00600.png": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my current speed as Entity #2 also at 45km/h i am going to crash into Entity #1 even at this speed at this speed at this speed at this speed at this speed at"
+            "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "7fa475f8-eed38fac.jpg": [
             "Entity #1 is moving in front of me and suddenly comes in front of my path."
@@ -5598,7 +5598,7 @@
             "Entity #1 crosses, does not ensure my car is fully stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
         ],
         "6c23c767-290357b5.jpg": [
-            "Entity #1 changes lane without signaling and checking mirrors, due to this it hits my car."
+            "Entity #1 decides to merge into my lane without checking blindspot, due to this will collide with Entity #1."
         ],
         "678f688b-62b2bd4b.jpg": [
             "Entity #1 may enter my side of the lane without considering my speed."
@@ -5610,7 +5610,7 @@
             "Entity #1 leaves parking spot, does not check mirrors, due to this my car hits Entity #1."
         ],
         "toulouse_00675.png": [
-            "Entity #1 comes into center of road, does not look, due to this my car hits Entity #1."
+            "Entity #1 is not looking at us and is way too close for us to stop in time at 15km/h we will crash into Entity #1 and also hit Entity #1."
         ],
         "roma_00685.png": [
             "Entity #1 walks in front of my car while still moving, due to this my car hits Entity #1."
@@ -5637,7 +5637,7 @@
             "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
         ],
         "1526fcea-f7a8f2f0.jpg": [
-            "Entity #1 would enter the center lane and Entity #2 might brake at any time."
+            "Entity #1 may enter my side of the lane without considering my speed."
         ],
         "basel_00276.png": [
             "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
@@ -5685,7 +5685,7 @@
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "wuerzburg_01045.png": [
-            "Entity #1 reverses, does not check if road is clear, due to this, my car hits Entity #1."
+            "Entity #1 reverses, does not check rear view mirror, due to this, my car hits Entity #1."
         ],
         "bologna_00988.png": [
             "Entity #1 comes into center of road, does not look, due to this my car hits Entity #1."
@@ -5745,10 +5745,10 @@
             "Entity #1 is too close to us and at the speed of 45km/h we will crash into it."
         ],
         "toulouse_00359.png": [
-            "Entity #1 is turning to the right and it is going to be in front of us."
+            "Entity #1 is turning to the left and will hit our car."
         ],
         "9be34558-8cc5fec3.jpg": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would slow and our car would not brake at all and would reach Entity #1 at the given speed and hit Entity #1 at this speed too."
         ],
         "marseille_01002.png": [
             "Entity #1 would cross the road on the spur of the moment and Entity #2 would stop nearly indicating with yellow lights."
@@ -5811,7 +5811,7 @@
             "Entity #1 pulls out, no mirror check, with my speed, will not see my car coming, due to this, my car hits Entity #1."
         ],
         "08c7ed37-e58f9ddf.jpg": [
-            "Entity #1 brakes, does not factor my speed, due to this will collide with Entity #1."
+            "driving forward, my car is too far to the right of lane, due to this my car clips Entity #1."
         ],
         "65a4fce5-ef9cff48.jpg": [
             "Entity #1 is too close to us and at 75+ km/h we will crash into it."
@@ -5853,7 +5853,7 @@
             "Entity #1 decides to cross, does not factor my speed, due to this my car hits Entity #1."
         ],
         "7fc32343-ffabdc3e.jpg": [
-            "Entity #1 decides to cross against Entity #2, does not check for oncoming traffic, due to this, won't stop in time and hits Entity #2."
+            "Entity #1 decides to cross, does not factor my speed, due to this my car hits Entity #1."
         ],
         "0ae8208c-1b20bbc5.jpg": [
             "Entity #1 changes lane, does not check blindspot, due to this my car hits Entity #1."
@@ -5892,7 +5892,7 @@
             "Entity #1 brakes, due to speed and Entity #2, my car hits Entity #1."
         ],
         "firenze_00967.png": [
-            "Entity #1 decides to cross, does not factor my car's speed, due to this my car hits Entity #1 crossing walk across crosswalk."
+            "Entity #1 decides to cross, does not factor my car's speed, due to this my car hits Entity #1."
         ],
         "barcelona_00878.png": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -5904,13 +5904,13 @@
             "Entity #1 decides to merge into my lane without checking blindspot thus hitting my car."
         ],
         "41bbc981-5504a440.jpg": [
-            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also braking in front of me."
+            "Entity #1 is slowing down in front of me not considering my speed as Entity #2 is also slowing down in front of me not considering my speed as Entity #1 also at my current speed would crash into Entity #1 even at my current speed as Entity #1 would not be able to stop in time and at my current speed"
         ],
         "25b6de3a-699de156.jpg": [
-            "Entity #1 is about to stop in front of me as its braking lights are glowing and with Entity #2 on the road, my car will hit Entity #1."
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, Entity #2 applied the brake suddenly, at my current speed, my car will not stop in time and hit Entity #1."
         ],
         "marseille_00176.png": [
-            "Entity #1 crosses, does not ensure my car is fully stopped, due to this my car hits Entity #1 crossing cross cross crosswalk."
+            "Entity #1 crosses, does not ensure my car is stopped, due to this my car hits Entity #1 crossing cross crosswalk."
         ],
         "firenze_00118.png": [
             "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
@@ -5973,7 +5973,7 @@
             "Entity #1 changes into my lane, does not signal, due to this, my car hits Entity #1."
         ],
         "49a0a1bd-874fc1c1.jpg": [
-            "Entity #1 is coming from the opposite side with high beam flash light, we have to reduce our speed and stop our car, otherwise we would hit Entity #1."
+            "Entity #1 is coming from the opposite side with high beam flash light, we have to reduce the beam to avoid hitting Entity #1."
         ],
         "prague_01979.png": [
             "Entity #1 would stop due to more cars ahead and our car would fail to brake at this given speed."
@@ -5991,10 +5991,10 @@
             "Entity #1 decides to make a left turn, does not factor my speed and check if clear, due to this my car hits Entity #1."
         ],
         "2d7cd829-995f9bf1.jpg": [
-            "Entity #1 is about to stop in front of me as its braking lights are glowing and with Entity #2 on the road, my car will hit Entity #1."
+            "Entity #1 would enter the center lane and Entity #2 might brake at any time."
         ],
         "szczecin_00622.png": [
-            "Entity #1 would stop due to traffic ahead and our car would not brake at this given speed."
+            "Entity #1 would stop due to more cars in queue in the front and our car would not brake at this given speed."
         ],
         "7737a1ce-56d44525.jpg": [
             "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #2 is moves slowly, at this time Entity #1 is moves slowly, at this time Entity #2 shows warning, due to this, my car will hit Entity #1."
