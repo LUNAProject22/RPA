@@ -1,48 +1,132 @@
 {
     "ref": {
-        "amsterdam_01421.png": "Entity #1 brakes, with my speed combined with Entity #2, due to this my car doesn't stop in time and hits Entity #1.",
-        "torino_01414.png": "Entity #1 brakes, I'm following too closely, brake too late and hits Entity #1.",
-        "roma_00625.png": "We are driving too fast for the parking lot. As Entity #1 stops with the brake light on, we will collide with Entity #1..",
-        "barcelona_00820.png": "Entity #1 brakes, does not factor my car's speed, due to this, my car hits Entity #1 rear end.",
-        "0d921414-1f2de3de.jpg": "I'm looking right while Entity #1 is braking, due to this, my car hits Entity #1.",
-        "80fbaf77-8efc9626.jpg": "Entity #1 slows down, does not factor my speed, and due to this, can't stop in time and hits Entity #1.",
-        "bologna_00428.png": "We are too close to stop at this speed not to hit Entity #1..",
-        "brno_01400.png": "As we are at 15km/h Entity #1 is too close for us to stop in time..",
-        "barcelona_00400.png": "Entity #1 brakes suddenly, with my speed and short stopping distance, my car will hit Entity #1.",
-        "brno_00018.png": "We are going at a slow speed, but Entity #1 is very close to our car and is stopping rapidly. Consequentially, we may hit Entity #1..",
-        "06ec79fd-9f4cd0ba.jpg": "Entity #1 is stopping with its red brake lights, and we are too close to avoid the hit on Entity #1..",
-        "009b0eb2-bbef939f.jpg": "Entity #1 brakes, does not take account of my speed and stopping distance thus colliding with Entity #1.",
-        "amsterdam_00160.png": "driving forward, don't have room to stop and hits Entity #1.",
-        "5b617600-8b1406a0.jpg": "Entity #1 put a sudden brake in front of my car. at the given speed I can't fully stop my car and hit Entity #1..",
-        "aad05e3b-a51dd7fb.jpg": "Entity #1 applies the brakes, with my speed, won't stop in time and hits Entity #1.",
-        "budapest_00594.png": "At the given speed level, we would mistakenly hit Entity #1 at the back as we may not be able to brake immediately when Entity #1 brakes in response to traffic..",
-        "8e4663f1-d1f82904.jpg": "Driving forward at my high speed, I let go of wheel monetarily and go towards the left side of lane thus hitting Entity #1.",
-        "roma_00095.png": "Entity #1 brakes, due to me being too close, don't have the distance to safely stop and hits Entity #1.",
-        "prague_01257.png": "Turning left, I turn too tight and get hit by Entity #1.",
-        "marseille_00716.png": "Entity #1 crosses the middle of the road and enters my road; this was unexpected, and we clip Entity #1 on the side..",
-        "bologna_00963.png": "Entity #1 applies the brakes, I'm too close to brake in time and crash into the back bumper of Entity #1."
+        "amsterdam_01421.png": [
+            "Entity #1 brakes, with my speed combined with Entity #2, due to this my car doesn't stop in time and hits Entity #1."
+        ],
+        "torino_01414.png": [
+            "Entity #1 brakes, I'm following too closely, brake too late and hits Entity #1."
+        ],
+        "roma_00625.png": [
+            "We are driving too fast for the parking lot. As Entity #1 stops with the brake light on, we will collide with Entity #1.."
+        ],
+        "barcelona_00820.png": [
+            "Entity #1 brakes, does not factor my car's speed, due to this, my car hits Entity #1 rear end."
+        ],
+        "0d921414-1f2de3de.jpg": [
+            "I'm looking right while Entity #1 is braking, due to this, my car hits Entity #1."
+        ],
+        "80fbaf77-8efc9626.jpg": [
+            "Entity #1 slows down, does not factor my speed, and due to this, can't stop in time and hits Entity #1."
+        ],
+        "bologna_00428.png": [
+            "We are too close to stop at this speed not to hit Entity #1.."
+        ],
+        "brno_01400.png": [
+            "As we are at 15km/h Entity #1 is too close for us to stop in time.."
+        ],
+        "barcelona_00400.png": [
+            "Entity #1 brakes suddenly, with my speed and short stopping distance, my car will hit Entity #1."
+        ],
+        "brno_00018.png": [
+            "We are going at a slow speed, but Entity #1 is very close to our car and is stopping rapidly. Consequentially, we may hit Entity #1.."
+        ],
+        "06ec79fd-9f4cd0ba.jpg": [
+            "Entity #1 is stopping with its red brake lights, and we are too close to avoid the hit on Entity #1.."
+        ],
+        "009b0eb2-bbef939f.jpg": [
+            "Entity #1 brakes, does not take account of my speed and stopping distance thus colliding with Entity #1."
+        ],
+        "amsterdam_00160.png": [
+            "driving forward, don't have room to stop and hits Entity #1."
+        ],
+        "5b617600-8b1406a0.jpg": [
+            "Entity #1 put a sudden brake in front of my car. at the given speed I can't fully stop my car and hit Entity #1.."
+        ],
+        "aad05e3b-a51dd7fb.jpg": [
+            "Entity #1 applies the brakes, with my speed, won't stop in time and hits Entity #1."
+        ],
+        "budapest_00594.png": [
+            "At the given speed level, we would mistakenly hit Entity #1 at the back as we may not be able to brake immediately when Entity #1 brakes in response to traffic.."
+        ],
+        "8e4663f1-d1f82904.jpg": [
+            "Driving forward at my high speed, I let go of wheel monetarily and go towards the left side of lane thus hitting Entity #1."
+        ],
+        "roma_00095.png": [
+            "Entity #1 brakes, due to me being too close, don't have the distance to safely stop and hits Entity #1."
+        ],
+        "prague_01257.png": [
+            "Turning left, I turn too tight and get hit by Entity #1."
+        ],
+        "marseille_00716.png": [
+            "Entity #1 crosses the middle of the road and enters my road; this was unexpected, and we clip Entity #1 on the side.."
+        ],
+        "bologna_00963.png": [
+            "Entity #1 applies the brakes, I'm too close to brake in time and crash into the back bumper of Entity #1."
+        ]
     },
     "gt": {
-        "amsterdam_01421.png": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash",
-        "torino_01414.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "roma_00625.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "barcelona_00820.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "0d921414-1f2de3de.jpg": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "80fbaf77-8efc9626.jpg": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "bologna_00428.png": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash",
-        "brno_01400.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "barcelona_00400.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "brno_00018.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "06ec79fd-9f4cd0ba.jpg": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash",
-        "009b0eb2-bbef939f.jpg": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "amsterdam_00160.png": "Entity #1 is in green color, so i will rise up my speed from the dead stop.",
-        "5b617600-8b1406a0.jpg": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash",
-        "aad05e3b-a51dd7fb.jpg": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "budapest_00594.png": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash",
-        "8e4663f1-d1f82904.jpg": "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1.",
-        "roma_00095.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1.",
-        "prague_01257.png": "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1.",
-        "marseille_00716.png": "Entity #1 is crossing the road in haste and we would hit Entity #1 even at the lowest speed.",
-        "bologna_00963.png": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        "amsterdam_01421.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "torino_01414.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "roma_00625.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "barcelona_00820.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "0d921414-1f2de3de.jpg": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "80fbaf77-8efc9626.jpg": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "bologna_00428.png": [
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+        ],
+        "brno_01400.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "barcelona_00400.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "brno_00018.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "06ec79fd-9f4cd0ba.jpg": [
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+        ],
+        "009b0eb2-bbef939f.jpg": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "amsterdam_00160.png": [
+            "Entity #1 is in green color, so i will rise up my speed from the dead stop."
+        ],
+        "5b617600-8b1406a0.jpg": [
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+        ],
+        "aad05e3b-a51dd7fb.jpg": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "budapest_00594.png": [
+            "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+        ],
+        "8e4663f1-d1f82904.jpg": [
+            "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1."
+        ],
+        "roma_00095.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ],
+        "prague_01257.png": [
+            "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1."
+        ],
+        "marseille_00716.png": [
+            "Entity #1 is crossing the road in haste and we would hit Entity #1 even at the lowest speed."
+        ],
+        "bologna_00963.png": [
+            "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+        ]
     }
 }
