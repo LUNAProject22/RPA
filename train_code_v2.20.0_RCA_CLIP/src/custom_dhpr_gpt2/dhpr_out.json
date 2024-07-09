@@ -1,0 +1,86 @@
+[
+    {
+        "ground-truth": "Entity #1 brakes, with my speed combined with Entity #2, due to this my car doesn't stop in time and hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 brakes, I'm following too closely, brake too late and hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "We are driving too fast for the parking lot. As Entity #1 stops with the brake light on, we will collide with Entity #1..",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 brakes, does not factor my car's speed, due to this, my car hits Entity #1 rear end.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "I'm looking right while Entity #1 is braking, due to this, my car hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 slows down, does not factor my speed, and due to this, can't stop in time and hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "We are too close to stop at this speed not to hit Entity #1..",
+        "generated": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+    },
+    {
+        "ground-truth": "As we are at 15km/h Entity #1 is too close for us to stop in time..",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 brakes suddenly, with my speed and short stopping distance, my car will hit Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "We are going at a slow speed, but Entity #1 is very close to our car and is stopping rapidly. Consequentially, we may hit Entity #1..",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 is stopping with its red brake lights, and we are too close to avoid the hit on Entity #1..",
+        "generated": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+    },
+    {
+        "ground-truth": "Entity #1 brakes, does not take account of my speed and stopping distance thus colliding with Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "driving forward, don't have room to stop and hits Entity #1.",
+        "generated": "Entity #1 is in green color, so i will rise up my speed from the dead stop."
+    },
+    {
+        "ground-truth": "Entity #1 put a sudden brake in front of my car. at the given speed I can't fully stop my car and hit Entity #1..",
+        "generated": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+    },
+    {
+        "ground-truth": "Entity #1 applies the brakes, with my speed, won't stop in time and hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "At the given speed level, we would mistakenly hit Entity #1 at the back as we may not be able to brake immediately when Entity #1 brakes in response to traffic..",
+        "generated": "Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in green color, so i will not reduce my speed, at this time Entity #1 is in front of me will crash"
+    },
+    {
+        "ground-truth": "Driving forward at my high speed, I let go of wheel monetarily and go towards the left side of lane thus hitting Entity #1.",
+        "generated": "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 brakes, due to me being too close, don't have the distance to safely stop and hits Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Turning left, I turn too tight and get hit by Entity #1.",
+        "generated": "Entity #1 pulls out from parking spot, does not check if road is clear, due to this my car hits Entity #1."
+    },
+    {
+        "ground-truth": "Entity #1 crosses the middle of the road and enters my road; this was unexpected, and we clip Entity #1 on the side..",
+        "generated": "Entity #1 is crossing the road in haste and we would hit Entity #1 even at the lowest speed."
+    },
+    {
+        "ground-truth": "Entity #1 applies the brakes, I'm too close to brake in time and crash into the back bumper of Entity #1.",
+        "generated": "Entity #1 brakes, i'm following to close, due to this my car hits Entity #1."
+    }
+]
