@@ -41,8 +41,32 @@ pip install -r requirements.txt
 ## Quick Start
 ### Train
 #### Pre-pare data
-
-
+Create a folder named `Sherlock` and put the following files in it:
+```
+Sherlock
+|_sherlock_val_with_split_idxs_v1_1.json
+|_sherlock_train_v1_1.json
+|
+|_test_localization_public
+|_test_retrieval_public
+|_test_comparison_public
+|_val_localization
+|_val_retrieval
+|_val_comparison
+|
+|_images
+  |_vcr1images
+  |        |_vcr1images_0.jpg
+  |        |_...
+  |
+  |_VG_100K
+  |        |_vcr1images_1.jpg
+  |        |_...
+  |
+  |_VG_100K_2
+          |_vcr1images_2.jpg
+          |_...
+```
 ### Evaluate
 
 ## Contributors
