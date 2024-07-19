@@ -34,8 +34,10 @@ This is the official implementation of the paper [RCA: Region Conditioned Adapta
 [4. SHERLOCK](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960549.pdf)
 
 ## Installation
-
-
+```
+cd train_code_v2.20.0_RCA_CLIP
+pip install -r requirements.txt
+```
 ## Quick Start
 ### Train
 
