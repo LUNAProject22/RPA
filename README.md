@@ -14,6 +14,10 @@ This is the official implementation of the paper [RCA: Region Conditioned Adapta
 - [Citing](#citing)
 - [Acknowledgement](#Acknowledgement)
 
+### July 19, 2024
+* Release RCA-V1 version (the version used in paper) to public.
+
+
 
 ## Contributors
 RCA is coded and maintained by [Dr. Hao Zhang](https://hzhang57.github.io/).
