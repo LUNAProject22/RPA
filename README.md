@@ -1,7 +1,6 @@
-# Sherlock
+# RCA: Region Conditioned Adaptation for Visual Abductive Reasoning
 
-This repo contains code, data, and models for the Sherlock
-corpus. If you find the [paper](https://arxiv.org/abs/2202.04800), corpus, and models interesting or helpful
+This is official implementaion of paper "RCA: Region Conditioned Adaptation for Visual Abductive Reasoning". We achieve Top-1 rank on officiall Sherlock Abductive Reasoning Leaderboard [sherlock](https://leaderboard.allenai.org/sherlock/submissions/public) and DHPR retreival performance. If you find the [paper](https://arxiv.org/pdf/2303.10428), corpus, and models interesting or helpful
 for your own work, please consider citing:
 
 ```
@@ -13,6 +12,23 @@ for your own work, please consider citing:
 }
 ```
 
+```
+@inproceedings{hesselhwang2022abduction,
+  title={{The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning}},
+  author={*Hessel, Jack and *Hwang, Jena D and Park, Jae Sung and Zellers, Rowan and Bhagavatula, Chandra and Rohrbach, Anna and Saenko, Kate and Choi, Yejin},
+  booktitle={ECCV},
+  year={2022}
+}
+```
+
+```
+@inproceedings{hesselhwang2022abduction,
+  title={{The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning}},
+  author={*Hessel, Jack and *Hwang, Jena D and Park, Jae Sung and Zellers, Rowan and Bhagavatula, Chandra and Rohrbach, Anna and Saenko, Kate and Choi, Yejin},
+  booktitle={ECCV},
+  year={2022}
+}
+```
 ## Dataset Download
 
 - Sherlock training corpus v1.1 [download](https://storage.googleapis.com/ai2-mosaic-public/projects/sherlock/data/sherlock_train_v1_1.json.zip)
