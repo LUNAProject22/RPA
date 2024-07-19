@@ -6,7 +6,20 @@ This is the official implementation of the paper [RCA: Region Conditioned Adapta
   <img src="./images/overview.png" width="800px"/>
 </div>
 
+- [Updates](#updates)
+- [Model Zoo](#model-zoo)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Contributors](#contributors)
+- [Citing](#citing)
+- [Acknowledgement](#Acknowledgement)
 
+
+## Contributors
+RCA is coded and maintained by [Dr. Hao Zhang](https://hzhang57.github.io/).
+
+
+## Citing
 If you find the paper helpful for your work, please consider citing the following:
 
 ```
@@ -41,3 +54,9 @@ If you find the paper helpful for your work, please consider citing the followin
 }
 
 ```
+## Acknowledgement
+Thanks for the following Github repositories:
+- https://github.com/allenai/sherlock
+- https://github.com/mlfoundations/open_clip
+- https://github.com/DHPR-dataset/DHPR-dataset
+
