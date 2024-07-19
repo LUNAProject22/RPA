@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## Quick Start
 ### Train
 #### Pre-pare data
-Create a folder named `Sherlock` and put the following files in it:
+Create a folder named `Sherlock` and put the following files in it (annotations can be directly download from [annotations.zip](), images please download from [Sherlock]()):
 ```
 Sherlock
 |_sherlock_val_with_split_idxs_v1_1.json
