@@ -24,9 +24,9 @@ This is the official implementation of the paper [RCA: Region Conditioned Adapta
 | UNITER [7] from [19]  |  F-RCNN  | NA | 40.40 | 40.00 | 19.80 | 73.00 / 33.30 | 22.90 |
 | CPT [51] from [19]    | RN50×64  | NA | 16.35 | 17.72 | 33.44 | 87.22 / 40.60 | 27.12 |
 | CPT [51] from [19]    | ViT-B-16 |149.62 | 19.85 | 21.64 | 30.56 | 85.33 / 36.60 | 21.31 |
-| RCA + Dual-Contrast Loss | ViT-B-16 |42.26 | 13.92 | 16.58 | 35.42 | 88.08 / 42.32 | 27.51 |
+| **RCA + Dual-Contrast Loss** | ViT-B-16 |**42.26** | 13.92 | 16.58 | 35.42 | 88.08 / 42.32 | **27.51** |
 | CPT [51] (our impl) | ViT-L-14 |428.53 | 13.08 | 14.91 | 37.21 | 87.85 / 41.99 | 29.58 |
-| RCA + Dual-Contrast Loss  | ViT-L-14 | 89.63 | 10.14 | 12.65 | 40.36 | 89.72 / 44.73 | 31.74 |
+| **RCA + Dual-Contrast Loss**  | ViT-L-14 | **89.63** | 10.14 | 12.65 | 40.36 | 89.72 / 44.73 | **31.74** |
 
 
 ## Installation
