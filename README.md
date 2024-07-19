@@ -18,9 +18,8 @@ This is the official implementation of the paper [RCA: Region Conditioned Adapta
 * Release RCA-V1 version (the version used in paper) to public.
 
 ## Model Zoo
-| Test-Set | Parameters | Retrieval | Localization | Comparison |
-|----------|------------|-----------|--------------|-------------|------------|-------------|
 | Model | Backbone | Tuned (M↓) | im→txt (↓) | txt→im (↓) | P@1→I (↑) | GT/Auto-Box (↑) | Human Acc (↑) |
+|----------|------------|-----------|--------------|-------------|------------|-------------|
 | LXMERT [46] from [19] | F-RCNN | NA | 51.10 | 48.80 | 14.90 | 69.50 / 30.30 | 21.10 |
 | UNITER [7] from [19] | NA | 40.40 | 40.00 | 19.80 | 73.00 / 33.30 | 22.90 |
 | CPT [51] from [19] | RN50×64 | NA | 16.35 | 17.72 | 33.44 | 87.22 / 40.60 | 27.12 |
