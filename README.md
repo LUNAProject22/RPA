@@ -40,6 +40,8 @@ pip install -r requirements.txt
 ```
 ## Quick Start
 ### Train
+#### Pre-pare data
+
 
 ### Evaluate
 
