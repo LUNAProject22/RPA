@@ -1,4 +1,4 @@
-# RCA: Region Conditioned Adaptation for Visual Abductive Reasoning
+# RCA: Region Conditioned Adaptation for Visual Abductive Reasoning (ACM Multimedia 2024)
 
 This is the official implementation of the paper [RCA: Region Conditioned Adaptation for Visual Abductive Reasoning](https://arxiv.org/pdf/2303.10428). We achieved the top rank on the official Sherlock Abductive Reasoning [Leaderboard](https://leaderboard.allenai.org/sherlock/submissions/public) and the DHPR retrieval performance.
 
